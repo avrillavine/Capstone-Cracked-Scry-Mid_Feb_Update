@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RGrip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.L/toe.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.L/toe.L/toe.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.R/toe.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik-foot.R/toe.R/toe.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.L/knee.L
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.L/knee.L/knee.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.R/knee.R
+    m_Weight: 0
+  - m_Path: Armature/root/ik-leg.R/knee.R/knee.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/index.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/index.L/index.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/index.L/index.L.001/index.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/index.L/index.L.001/index.L.002/index.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/middle.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/middle.L/middle.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/middle.L/middle.L.001/middle.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/middle.L/middle.L.001/middle.L.002/middle.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/pinky.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/pinky.L/pinky.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/pinky.L/pinky.L.001/pinky.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/pinky.L/pinky.L.001/pinky.L.002/pinky.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/ring.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/ring.L/ring.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/ring.L/ring.L.001/ring.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/ring.L/ring.L.001/ring.L.002/ring.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/thumb.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/thumb.L/thumb.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/thumb.L/thumb.L.001/thumb.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.L/upper-arm.L/lower-arm.L/hand.L/thumb.L/thumb.L.001/thumb.L.002/thumb.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/index.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/index.R/index.R.001
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/index.R/index.R.001/index.R.002
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/index.R/index.R.001/index.R.002/index.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/middle.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/middle.R/middle.R.001
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/middle.R/middle.R.001/middle.R.002
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/middle.R/middle.R.001/middle.R.002/middle.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/pinky.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/pinky.R/pinky.R.001
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/pinky.R/pinky.R.001/pinky.R.002
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/pinky.R/pinky.R.001/pinky.R.002/pinky.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/ring.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/ring.R/ring.R.001
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/ring.R/ring.R.001/ring.R.002
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/ring.R/ring.R.001/ring.R.002/ring.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/thumb.R
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/thumb.R/thumb.R.001
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/thumb.R/thumb.R.001/thumb.R.002
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/collar.R/upper-arm.R/lower-arm.R/hand.R/thumb.R/thumb.R.001/thumb.R.002/thumb.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/chin
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/chin/chin.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/chin/chin.001/lower-lip
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/chin/chin.001/lower-lip/lower-lip_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eye.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eye.L/eye.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eye.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eye.R/eye.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyebrow.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyebrow.L/eyebrow.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyebrow.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyebrow.R/eyebrow.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004/eyelid.L.003
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004/eyelid.L.003/eyelid.L.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004/eyelid.L.003/eyelid.L.002/eyelid.L.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004/eyelid.L.003/eyelid.L.002/eyelid.L.001/eyelid.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.L.004/eyelid.L.003/eyelid.L.002/eyelid.L.001/eyelid.L/eyelid.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004/eyelid.R.003
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004/eyelid.R.003/eyelid.R.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004/eyelid.R.003/eyelid.R.002/eyelid.R.001
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004/eyelid.R.003/eyelid.R.002/eyelid.R.001/eyelid.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/eyelid.R.004/eyelid.R.003/eyelid.R.002/eyelid.R.001/eyelid.R/eyelid.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/lower-jaw
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/lower-jaw/lower-jaw_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mask
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mask/mask_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mouth-corner.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mouth-corner.L/mouth-corner.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mouth-corner.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/mouth-corner.R/mouth-corner.R_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/upper-jaw
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/upper-jaw/upper-jaw_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/upper-lip
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/lower-spine/chest/neck/head/upper-lip/upper-lip_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.L/lower-leg.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.L/lower-leg.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.L/lower-leg.L/foot.L/foot.L_end
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.R/lower-leg.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.R/lower-leg.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/upper-leg.R/lower-leg.R/foot.R/foot.R_end
+    m_Weight: 0
+  - m_Path: Body
+    m_Weight: 0
